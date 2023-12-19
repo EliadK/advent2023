@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="261af53f-fcca-49c7-ae20-4bfa712eae39" name="Changes" comment="First batch of Advent solutions! This is my second week of learning python">
-      <change afterPath="$PROJECT_DIR$/Advent4.py" afterDir="false" />
+    <list default="true" id="261af53f-fcca-49c7-ae20-4bfa712eae39" name="Changes" comment="Advent 5 part 1">
+      <change afterPath="$PROJECT_DIR$/Advent5b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advent5c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advent5d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input5.txt:Zone.Identifier" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,10 +43,20 @@
     "Python.Advent3.executor": "Run",
     "Python.Advent3b.executor": "Run",
     "Python.Advent4.executor": "Run",
+    "Python.Advent5.executor": "Run",
+    "Python.Advent5b.executor": "Run",
+    "Python.Advent5c.executor": "Run",
+    "Python.advent5d.executor": "Run",
+    "Python.scratch_3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/eliad/PycharmProjects/Advent2023"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -54,7 +67,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-7a29c1521ef0-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.298" />
+        <option value="bundled-python-sdk-5b34670a16e9-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.26" />
       </set>
     </attachedChunks>
   </component>
@@ -83,7 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702660079096</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First batch of Advent solutions! This is my second week of learning python">
+      <option name="closed" value="true" />
+      <created>1702740090782</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702740090782</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Advent 5 part 1">
+      <option name="closed" value="true" />
+      <created>1702975920167</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702975920167</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First batch of Advent solutions! This is my second week of learning python" />
-    <option name="LAST_COMMIT_MESSAGE" value="First batch of Advent solutions! This is my second week of learning python" />
+    <MESSAGE value="Advent 5 part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advent 5 part 1" />
   </component>
 </project>
