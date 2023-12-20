@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="261af53f-fcca-49c7-ae20-4bfa712eae39" name="Changes" comment="Advent 5 part 1">
-      <change afterPath="$PROJECT_DIR$/Advent5b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advent5c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advent5d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input5.txt:Zone.Identifier" afterDir="false" />
+    <list default="true" id="261af53f-fcca-49c7-ae20-4bfa712eae39" name="Changes" comment="Advent 5 part 2- was pretty challenging">
+      <change afterPath="$PROJECT_DIR$/Advent6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +43,7 @@
     "Python.Advent5.executor": "Run",
     "Python.Advent5b.executor": "Run",
     "Python.Advent5c.executor": "Run",
+    "Python.Advent6.executor": "Run",
     "Python.advent5d.executor": "Run",
     "Python.scratch_3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -112,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702975920167</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Advent 5 part 2- was pretty challenging">
+      <option name="closed" value="true" />
+      <created>1702995812699</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702995812699</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +136,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First batch of Advent solutions! This is my second week of learning python" />
     <MESSAGE value="Advent 5 part 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Advent 5 part 1" />
+    <MESSAGE value="Advent 5 part 2- was pretty challenging" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advent 5 part 2- was pretty challenging" />
   </component>
 </project>
