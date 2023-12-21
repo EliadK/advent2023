@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="261af53f-fcca-49c7-ae20-4bfa712eae39" name="Changes" comment="Advent 5 part 2- was pretty challenging">
-      <change afterPath="$PROJECT_DIR$/Advent6.py" afterDir="false" />
+    <list default="true" id="261af53f-fcca-49c7-ae20-4bfa712eae39" name="Changes" comment="Advent 6">
+      <change afterPath="$PROJECT_DIR$/Advent7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advent7b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input7.txt:Zone.Identifier" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +47,11 @@
     "Python.Advent5b.executor": "Run",
     "Python.Advent5c.executor": "Run",
     "Python.Advent6.executor": "Run",
+    "Python.Advent7.executor": "Run",
+    "Python.Advent7b.executor": "Run",
     "Python.advent5d.executor": "Run",
     "Python.scratch_3.executor": "Run",
+    "Python.scratch_4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -65,7 +71,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5b34670a16e9-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.26" />
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
       </set>
     </attachedChunks>
   </component>
@@ -118,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702995812699</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Advent 6">
+      <option name="closed" value="true" />
+      <created>1703090438061</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703090438061</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +151,7 @@
     <MESSAGE value="First batch of Advent solutions! This is my second week of learning python" />
     <MESSAGE value="Advent 5 part 1" />
     <MESSAGE value="Advent 5 part 2- was pretty challenging" />
-    <option name="LAST_COMMIT_MESSAGE" value="Advent 5 part 2- was pretty challenging" />
+    <MESSAGE value="Advent 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advent 6" />
   </component>
 </project>
