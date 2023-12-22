@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="261af53f-fcca-49c7-ae20-4bfa712eae39" name="Changes" comment="Advent 6">
-      <change afterPath="$PROJECT_DIR$/Advent7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advent7b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input7.txt:Zone.Identifier" afterDir="false" />
+    <list default="true" id="261af53f-fcca-49c7-ae20-4bfa712eae39" name="Changes" comment="Advent 7">
+      <change afterPath="$PROJECT_DIR$/Advent8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advent8c.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +47,10 @@
     "Python.Advent6.executor": "Run",
     "Python.Advent7.executor": "Run",
     "Python.Advent7b.executor": "Run",
+    "Python.Advent8.executor": "Run",
+    "Python.Advent8b.executor": "Run",
+    "Python.Advent8c.executor": "Run",
+    "Python.Advent8d.executor": "Run",
     "Python.advent5d.executor": "Run",
     "Python.scratch_3.executor": "Run",
     "Python.scratch_4.executor": "Run",
@@ -132,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703090438061</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Advent 7">
+      <option name="closed" value="true" />
+      <created>1703158631881</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703158631881</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +162,7 @@
     <MESSAGE value="Advent 5 part 1" />
     <MESSAGE value="Advent 5 part 2- was pretty challenging" />
     <MESSAGE value="Advent 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Advent 6" />
+    <MESSAGE value="Advent 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advent 7" />
   </component>
 </project>
