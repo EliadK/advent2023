@@ -69,11 +69,9 @@ with open("input12.txt", "r") as file:
         # prepare the string
         input=input.split(" ")
         input[1]=[int(item) for item in input[1].split(",")]
-        input[1]=list(reversed(input[1]))
         stages=input[1]
         #split ?
         input[0]= [item for item in input[0]]
-        input[0]=list(reversed(input[0]))
         #remove excess dots
         index=0
         while index < len(input[0])-1:
