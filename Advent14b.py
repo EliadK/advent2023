@@ -1,6 +1,3 @@
-# need to recreate new map and then calculate because old method doesn't distinguish # from O
-# instead of blockage we create an array that builds itself line after line
-
 import re
 
 with open("input14.txt", "r") as file:
